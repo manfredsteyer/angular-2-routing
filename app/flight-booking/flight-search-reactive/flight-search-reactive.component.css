@@ -1,0 +1,14 @@
+
+input.ng-valid {
+
+    border-left-style: solid;
+    border-left-width: 5px;
+    border-left-color: limegreen;
+
+}
+
+input.ng-invalid {
+    border-left-style: solid;
+    border-left-width: 5px;
+    border-left-color: lightpink;
+}
